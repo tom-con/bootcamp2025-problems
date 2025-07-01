@@ -7,3 +7,7 @@ function replace(str, charToReplace, strReplacement) {}
 function strLengthEven(str) {}
 
 function findRabbit(arr) {}
+
+function subtractTen(num) {
+  return num - 10;
+}
