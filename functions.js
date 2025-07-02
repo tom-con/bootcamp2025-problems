@@ -15,3 +15,7 @@ function subtractTen(num) {
 function returnDog() {
   return "dog";
 }
+
+function addFifty(num) {
+  return num + 50;
+}
