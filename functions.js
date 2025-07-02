@@ -11,3 +11,7 @@ function findRabbit(arr) {}
 function subtractTen(num) {
   return num - 10;
 }
+
+function addFifty(num) {
+  return num + 50;
+}
