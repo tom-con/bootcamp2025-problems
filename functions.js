@@ -12,6 +12,10 @@ function subtractTen(num) {
   return num - 10;
 }
 
+function returnDog() {
+  return "dog";
+}
+
 function addFifty(num) {
   return num + 50;
 }
