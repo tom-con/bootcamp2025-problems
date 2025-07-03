@@ -31,3 +31,7 @@ function addTen(num) {
 function subtractTFive(num) {
   return num - 5;
 }
+
+function timesFive(num) {
+  return num * 5;
+}
