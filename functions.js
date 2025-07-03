@@ -32,6 +32,6 @@ function subtractTFive(num) {
   return num - 5;
 }
 
-function timesFive(num) {
+function multiplyByFive(num) {
   return num * 5;
 }
