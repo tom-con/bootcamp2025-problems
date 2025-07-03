@@ -23,3 +23,7 @@ function addFifty(num) {
 function ashish() {
   throw new Error("Help");
 }
+
+function addTen(num) {
+  return num + 10;
+}
