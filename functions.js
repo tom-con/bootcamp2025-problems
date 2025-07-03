@@ -27,3 +27,7 @@ function ashish() {
 function addTen(num) {
   return num + 10;
 }
+
+function subtractTFive(num) {
+  return num - 5;
+}
