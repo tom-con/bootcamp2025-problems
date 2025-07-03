@@ -19,3 +19,7 @@ function returnDog() {
 function addFifty(num) {
   return num + 50;
 }
+
+function ashish() {
+  throw new Error("Help");
+}
